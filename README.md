@@ -5,4 +5,5 @@ I created this documentation to help admins utilize the Paylocity API with Power
 
 You will need to work with HR/Paylocity to gain a ClientID, Client Seceret and a Paylocity Public Key. 
 
+Here is the Paylocity API documentation. https://www.paylocity.com/our-products/integrations/api-library/ 
 
